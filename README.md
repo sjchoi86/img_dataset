@@ -20,17 +20,17 @@ The data consists of 48x48 pixel grayscale images of faces. The faces have been 
 #### img_dataset/face_emotion/0/ (Angry)
 <img src = https://github.com/sjchoi86/img_dataset/blob/master/face_emotion/0/0001.png width="200" height="200" />
 #### img_dataset/face_emotion/1/ (Disgust)
-<img src = https://github.com/sjchoi86/img_dataset/blob/master/face_emotion/1/0001.png width="200" height="200" />
+<img src = https://github.com/sjchoi86/img_dataset/blob/master/face_emotion/1/0300.png width="200" height="200" />
 #### img_dataset/face_emotion/2/ (Fear)
-<img src = https://github.com/sjchoi86/img_dataset/blob/master/face_emotion/2/0001.png width="200" height="200" />
+<img src = https://github.com/sjchoi86/img_dataset/blob/master/face_emotion/2/0003.png width="200" height="200" />
 #### img_dataset/face_emotion/3/ (Happy)
-<img src = https://github.com/sjchoi86/img_dataset/blob/master/face_emotion/3/0001.png width="200" height="200" />
+<img src = https://github.com/sjchoi86/img_dataset/blob/master/face_emotion/3/0008.png width="200" height="200" />
 #### img_dataset/face_emotion/4/ (Sad)
-<img src = https://github.com/sjchoi86/img_dataset/blob/master/face_emotion/4/0001.png width="200" height="200" />
+<img src = https://github.com/sjchoi86/img_dataset/blob/master/face_emotion/4/0004.png width="200" height="200" />
 #### img_dataset/face_emotion/5/ (Surprise)
-<img src = https://github.com/sjchoi86/img_dataset/blob/master/face_emotion/5/0001.png width="200" height="200" />
+<img src = https://github.com/sjchoi86/img_dataset/blob/master/face_emotion/5/0016.png width="200" height="200" />
 #### img_dataset/face_emotion/6/ (Neutral)
-<img src = https://github.com/sjchoi86/img_dataset/blob/master/face_emotion/6/0001.png width="200" height="200" />
+<img src = https://github.com/sjchoi86/img_dataset/blob/master/face_emotion/6/0005.png width="200" height="200" />
 
 
 
